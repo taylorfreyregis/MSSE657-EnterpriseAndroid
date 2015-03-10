@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Taylor Frey</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="scis_activity">SCIS</string>
+    <string name="feedback_activity">Feedback</string>
+    <string name="messaging_activity">Messaging</string>
+    <string name="social_media_activity">Social Media</string>
+    <string name="linkedin_activity">LinkedIn</string>
+
+</resources>

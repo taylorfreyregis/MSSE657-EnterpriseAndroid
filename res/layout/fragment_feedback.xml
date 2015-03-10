@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent" >
+
+
+    <Button
+        android:id="@+id/button_send_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+
+        android:text="Send"
+        android:textColor="@android:color/holo_blue_dark"
+        android:background="@android:color/transparent"
+        />
+
+    <EditText
+        android:id="@+id/edit_text_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+
+        android:minLines="10"
+        android:lines="12"
+        android:maxLines="20"
+        android:scrollbars="vertical"/>
+
+</RelativeLayout>

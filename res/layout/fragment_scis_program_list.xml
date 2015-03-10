@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent" >
+    
+    <!-- TODO: Convert to Expandable once more data is available -->
+	<!-- <ListView
+        android:id="@+id/list_view_scis" 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+                
+    </ListView> -->
+    
+    <ExpandableListView
+        android:id="@+id/list_view_expandable_scis"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+                
+    </ExpandableListView>
+    
+</RelativeLayout>

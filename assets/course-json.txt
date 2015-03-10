@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "CIS 206 Business Software Applications",
+        "pid": {
+            "id": 1,
+            "name": "CIS"
+        }
+    },
+    {
+        "id": 2,
+        "name": "CN 301 Networking Technologies",
+        "pid": {
+            "id": 2,
+            "name": "CN"
+        }
+    },
+    {
+        "id": 3,
+        "name": "CS 208 Computer Science Fundamentals",
+        "pid": {
+            "id": 3,
+            "name": "CS"
+        }
+    },
+    {
+        "id": 4,
+        "name": "MSCC 610 Information Technology",
+        "pid": {
+            "id": 4,
+            "name": "MSCC"
+        }
+    },
+    {
+        "id": 5,
+        "name": "MSCT 600 Database Performance",
+        "pid": {
+            "id": 5,
+            "name": "MCT"
+        }
+    },
+    {
+        "id": 6,
+        "name": "MSCD 600 Database Architecture",
+        "pid": {
+            "id": 6,
+            "name": "MSCD"
+        }
+    },
+    {
+        "id": 7,
+        "name": "MSCI 615 Business Process Engineering",
+        "pid": {
+            "id": 7,
+            "name": "MSCI"
+        }
+    },
+    {
+        "id": 8,
+        "name": "MSCT 600 Network Essentials",
+        "pid": {
+            "id": 8,
+            "name": "MSCT"
+        }
+    },
+    {
+        "id": 9,
+        "name": "MSIA 670 Enterprise Info Assurance",
+        "pid": {
+            "id": 9,
+            "name": "MSIA"
+        }
+    },
+    {
+        "id": 10,
+        "name": "MSEE 670 Java Software Development",
+        "pid": {
+            "id": 10,
+            "name": "MSSE"
+        }
+    },
+    {
+        "id": 11,
+        "name": "MSEE 672 Adv Java Software Dev",
+        "pid": {
+            "id": 10,
+            "name": "MSSE"
+        }
+    },
+    {
+        "id": 12,
+        "name": "MSEE 674 Enterprise Java Software Dev",
+        "pid": {
+            "id": 10,
+            "name": "MSSE"
+        }
+    },
+    {
+        "id": 13,
+        "name": "MSEE 676 Adv Enterprise Java Software Dev",
+        "pid": {
+            "id": 10,
+            "name": "MSSE"
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "CIS"
+    },
+    {
+        "id": 2,
+        "name": "CN"
+    },
+    {
+        "id": 3,
+        "name": "CS"
+    },
+    {
+        "id": 4,
+        "name": "MSCC"
+    },
+    {
+        "id": 5,
+        "name": "MCT"
+    },
+    {
+        "id": 6,
+        "name": "MSCD"
+    },
+    {
+        "id": 7,
+        "name": "MSCI"
+    },
+    {
+        "id": 8,
+        "name": "MSCT"
+    },
+    {
+        "id": 9,
+        "name": "MSIA"
+    },
+    {
+        "id": 10,
+        "name": "MSSE"
+    }
+]
